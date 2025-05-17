@@ -36,7 +36,7 @@ Uygulama, OOP'nin temel prensiplerini benimseyerek modüler, esnek ve bakımı k
 
     Güvenli kullanıcı yönetimi ile sisteme erişimi kontrol altına alır. Kullanıcılar, kendi hesaplarını oluşturabilir ve geçerli kimlik bilgileriyle sisteme giriş yapabilir.
 
-    <img src='Uygulama Resimleri/Screenshot_1.png' alt='Giriş Ekranı' width='200'>
+    <img src='https://github.com/makifblc/ab-rent-a-car-project/blob/main/AB%20RENT%20A%20CAR/Uygulama%20Resimleri/Screenshot_1.png' alt='Giriş Ekranı' width='200'>
 
 * **📄 Müşteri Kayıt ve Yönetimi:**
 
