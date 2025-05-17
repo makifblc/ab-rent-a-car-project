@@ -9,6 +9,7 @@ AB Rent A Car, Python programlama dili ve grafik kullanıcı arayüzü (GUI) tek
 * **Tkinter & CustomTkinter:** Modern ve özelleştirilebilir kullanıcı arayüzleri oluşturmak için kullanılan GUI kütüphaneleri. CustomTkinter, Tkinter'in görünümünü iyileştirerek daha çağdaş bir deneyim sunar.
 * **Pillow (PIL):** Görüntü işleme yetenekleri sağlayan, ikonlar ve arka plan görselleri gibi görsel öğelerin yönetimi için kullanılan kütüphane.
 * **tkcalendar:** Kullanıcıların tarihleri kolayca seçmelerini sağlayan takvim bileşeni (isteğe bağlı olarak kullanılabilir).
+* **website:** * https://abrentacar-proje.netlify.app
 
 ## 🧠 Nesne Yönelimli Programlama (OOP) Yapısı
 
