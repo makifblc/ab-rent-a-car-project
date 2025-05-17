@@ -2,6 +2,10 @@
 
 AB Rent A Car, Python programlama dili ve grafik kullanıcı arayüzü (GUI) teknolojileri kullanılarak geliştirilmiş modern ve kapsamlı bir araç kiralama otomasyon sistemidir. Uygulama, nesne yönelimli programlama (OOP) prensiplerine sıkı sıkıya bağlı kalınarak geliştirilmiş olup, sağlam bir MySQL veritabanı altyapısıyla desteklenmektedir. Bu sayede hem ölçeklenebilir hem de sürdürülebilir bir çözüm sunar.
 
+## Website
+
+* **website:** https://abrentacar-proje.netlify.app
+
 ## 🧱 Kullanılan Teknolojiler
 
 * **Python 3.x:** Uygulamanın temelini oluşturan, okunabilir ve güçlü bir programlama dili.
@@ -9,7 +13,6 @@ AB Rent A Car, Python programlama dili ve grafik kullanıcı arayüzü (GUI) tek
 * **Tkinter & CustomTkinter:** Modern ve özelleştirilebilir kullanıcı arayüzleri oluşturmak için kullanılan GUI kütüphaneleri. CustomTkinter, Tkinter'in görünümünü iyileştirerek daha çağdaş bir deneyim sunar.
 * **Pillow (PIL):** Görüntü işleme yetenekleri sağlayan, ikonlar ve arka plan görselleri gibi görsel öğelerin yönetimi için kullanılan kütüphane.
 * **tkcalendar:** Kullanıcıların tarihleri kolayca seçmelerini sağlayan takvim bileşeni (isteğe bağlı olarak kullanılabilir).
-* **website:** * https://abrentacar-proje.netlify.app
 
 ## 🧠 Nesne Yönelimli Programlama (OOP) Yapısı
 
