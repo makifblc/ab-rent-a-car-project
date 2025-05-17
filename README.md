@@ -36,7 +36,7 @@ Uygulama, OOP'nin temel prensiplerini benimseyerek modüler, esnek ve bakımı k
 
     Güvenli kullanıcı yönetimi ile sisteme erişimi kontrol altına alır. Kullanıcılar, kendi hesaplarını oluşturabilir ve geçerli kimlik bilgileriyle sisteme giriş yapabilir.
 
-    ![Giriş Ekranı](Uygulama Resimleri/Screenshot_1.png)
+    ![Giriş Ekranı](Uygulama Resimleri\Screenshot_1.png)
 
 * **📄 Müşteri Kayıt ve Yönetimi:**
 
