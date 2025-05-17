@@ -42,25 +42,25 @@ Uygulama, OOP'nin temel prensiplerini benimseyerek modüler, esnek ve bakımı k
 
     Müşteri bilgilerinin (ad, soyad, TC kimlik numarası, iletişim bilgileri vb.) kaydedilmesi, güncellenmesi ve yönetilmesi.
 
-    <img src='Uygulama Resimleri/Screenshot_3.png' alt='Müşteri Kayıt Ekranı' width='200'>
+    <img src='(https://github.com/makifblc/ab-rent-a-car-project/blob/main/AB%20RENT%20A%20CAR/Uygulama%20Resimleri/Screenshot_3.png)' alt='Müşteri Kayıt Ekranı' width='200'>
 
 * **🚘 Araç Ekleme, Listeleme ve Güncelleme:**
 
     Araç bilgilerinin (marka, model, üretim yılı, teknik özellikler vb.) sisteme eklenmesi, mevcut araçların listelenmesi ve bilgilerinin güncellenmesi.
 
-    <img src='Uygulama Resimleri/Screenshot_4.png' alt='Araç Kayıt Ekranı' width='200'>
+    <img src='(https://github.com/makifblc/ab-rent-a-car-project/blob/main/AB%20RENT%20A%20CAR/Uygulama%20Resimleri/Screenshot_4.png)' alt='Araç Kayıt Ekranı' width='200'>
 
 * **📆 Araç Kiralama, Ücret Hesaplama ve Süre Takibi:**
 
     Müşteri ve araç seçimi yapılarak kiralama işlemlerinin gerçekleştirilmesi, kiralama süresinin belirlenmesi ve otomatik ücret hesaplaması.
 
-    <img src='Uygulama Resimleri/Screenshot_5.png' alt='Kiralama Ekranı' width='200'>
+    <img src='(https://github.com/makifblc/ab-rent-a-car-project/blob/main/AB%20RENT%20A%20CAR/Uygulama%20Resimleri/Screenshot_5.png)' alt='Kiralama Ekranı' width='200'>
 
 * **📜 Kiralama Geçmişi ve Aktif Kiralamalar:**
 
     Geçmiş kiralama kayıtlarının görüntülenmesi ve şu anda devam eden aktif kiralama işlemlerinin takibi.
     
-    <img src='Uygulama Resimleri/Screenshot_2.png' alt='Ana Sayfa' width='200'>
+    <img src='https://github.com/makifblc/ab-rent-a-car-project/blob/main/AB%20RENT%20A%20CAR/Uygulama%20Resimleri/Screenshot_2.png' alt='Ana Sayfa' width='200'>
 
 * **💾 MySQL Veritabanı Entegrasyonu:**
 
