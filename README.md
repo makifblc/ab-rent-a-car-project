@@ -36,31 +36,31 @@ Uygulama, OOP'nin temel prensiplerini benimseyerek modüler, esnek ve bakımı k
 
     Güvenli kullanıcı yönetimi ile sisteme erişimi kontrol altına alır. Kullanıcılar, kendi hesaplarını oluşturabilir ve geçerli kimlik bilgileriyle sisteme giriş yapabilir.
 
-    ![Giriş Ekranı](Uygulama Resimleri\Screenshot_1.png)
+    <img src='Uygulama Resimleri/Screenshot_1.png' alt='Giriş Ekranı' width='200'>
 
 * **📄 Müşteri Kayıt ve Yönetimi:**
 
     Müşteri bilgilerinin (ad, soyad, TC kimlik numarası, iletişim bilgileri vb.) kaydedilmesi, güncellenmesi ve yönetilmesi.
 
-    ![Müşteri Kayıt Ekranı](Screenshot_3.png)
+    <img src='Uygulama Resimleri/Screenshot_3.png' alt='Müşteri Kayıt Ekranı' width='200'>
 
 * **🚘 Araç Ekleme, Listeleme ve Güncelleme:**
 
     Araç bilgilerinin (marka, model, üretim yılı, teknik özellikler vb.) sisteme eklenmesi, mevcut araçların listelenmesi ve bilgilerinin güncellenmesi.
 
-    ![Araç Kayıt Ekranı](Screenshot_4.jpg)
+    <img src='Uygulama Resimleri/Screenshot_4.png' alt='Araç Kayıt Ekranı' width='200'>
 
 * **📆 Araç Kiralama, Ücret Hesaplama ve Süre Takibi:**
 
     Müşteri ve araç seçimi yapılarak kiralama işlemlerinin gerçekleştirilmesi, kiralama süresinin belirlenmesi ve otomatik ücret hesaplaması.
 
-    ![Kiralama Ekranı](Screenshot_5.png)
+    <img src='Uygulama Resimleri/Screenshot_5.png' alt='Kiralama Ekranı' width='200'>
 
 * **📜 Kiralama Geçmişi ve Aktif Kiralamalar:**
 
     Geçmiş kiralama kayıtlarının görüntülenmesi ve şu anda devam eden aktif kiralama işlemlerinin takibi.
-
-    ![Ana Sayfa](Screenshot_2.png)
+    
+    <img src='Uygulama Resimleri/Screenshot_2.png' alt='Ana Sayfa' width='200'>
 
 * **💾 MySQL Veritabanı Entegrasyonu:**
 
@@ -78,4 +78,40 @@ Uygulama, OOP'nin temel prensiplerini benimseyerek modüler, esnek ve bakımı k
 
 Uygulama, verileri düzenli ve verimli bir şekilde saklamak için aşağıdaki tabloları kullanır. Tablolar, uygulama ilk kez çalıştırıldığında otomatik olarak oluşturulur:
 
-| Tablo Adı          | Açıklama
+| Tablo              | Açıklama                                   |
+|--------------------|--------------------------------------------|
+| `kullanicilar`     | Giriş yapan kullanıcı bilgileri             |
+| `musteribilgileri` | Müşteri kayıtları                          |
+| `arababilgileri`   | Kiralanabilir araç bilgileri                |
+| `kiralamabilgileri`| Tüm kiralama işlemleri (aktif/geçmiş)      |
+
+Veritabanı tabloları, uygulama ilk kez çalıştırıldığında otomatik oluşturulur.
+
+---
+
+## 🚀 Kurulum ve Çalıştırma
+
+1. Gerekli kütüphaneleri yükleyin:
+   ```bash
+   pip install customtkinter pillow mysql-connector-python tkcalendar
+<br>
+✨ Gelecekteki Geliştirmeler
+<br><br>
+📤 CSV ve PDF rapor çıktıları
+<br>
+📈 Grafik destekli raporlama
+<br>
+🌐 Web versiyonu (Flask / Django)
+<br>
+📲 QR kod destekli araç takibi
+
+📧 E-posta ile onay ve bildirim sistemi
+
+<br>
+<br>
+👨‍💻 Geliştirici
+
+Mehmet Akif Balcı
+📧 makifblc53@gmail.com
+🔖 Sürüm: 1.0
+
