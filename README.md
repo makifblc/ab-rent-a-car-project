@@ -2,7 +2,7 @@
 
 AB Rent A Car, Python programlama dili ve grafik kullanıcı arayüzü (GUI) teknolojileri kullanılarak geliştirilmiş modern ve kapsamlı bir araç kiralama otomasyon sistemidir. Uygulama, nesne yönelimli programlama (OOP) prensiplerine sıkı sıkıya bağlı kalınarak geliştirilmiş olup, sağlam bir MySQL veritabanı altyapısıyla desteklenmektedir. Bu sayede hem ölçeklenebilir hem de sürdürülebilir bir çözüm sunar.
 
-## Website
+## AB RENT A CAR WEBSİTE
 
 * **website:** https://abrentacar-proje.netlify.app
 
